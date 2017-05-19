@@ -1,2 +1,2 @@
 # image-search
-Image search using bing api
+Image search using google custom search api
