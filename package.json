@@ -1,7 +1,7 @@
 {
-  "name": "url-shortener",
+  "name": "image-search",
   "version": "1.0.0",
-  "description": "Starter kit for javascript development",
+  "description": "image search using bing search api",
   "scripts": {
     "start": "npm run open:src",
     "security-check": "nsp check",
@@ -19,8 +19,11 @@
     "babel-loader": "6.2.5",
     "babel-preset-latest": "6.16.0",
     "babel-register": "6.16.3",
+    "google-search": "0.0.5",
     "mongodb": "^2.2.26",
-    "whatwg-fetch": "1.0.0"
+    "request": "^2.81.0",
+    "whatwg-fetch": "1.0.0",
+    "express": "4.14.0"
   },
   "devDependencies": {
     "babel-cli": "6.16.0",
